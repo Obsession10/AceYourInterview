@@ -5,17 +5,13 @@
   
   * Backend-Technologies (Java, .NET)
   
-  * Front-End technologies (HTML, CSS, JS, React, Angular) 
+  * Front-End technologies (HTML, CSS, JS, Angular) 
   
   * Design Patterns
   
   * Software Engineering topics (SOLID, GRASP, MVC, Agile, Scrum et.al.)
   
   * Databases 
-  
-  * Web Services ( REST, SOAP et.al.) 
-  
-  + Many more to come
   
   How the user interacts with the app: the user logs in and he wanna practice his theoretycal skills needed for pass an interview: on main page there are all the listed domains and the user choose which one he wanna practice or maybe he wanna practice all of them together. 
   For every domain, we'll have a set of questions prepared, a time for every quesiton, and a set of answers from which the user has to choose one correct. 
